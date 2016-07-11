@@ -1,0 +1,6 @@
+c:\users\george\documents\visual studio 2015\Projects\BG Project 2\BG Project 2\bin\Debug\BG Project 2.exe.config
+c:\users\george\documents\visual studio 2015\Projects\BG Project 2\BG Project 2\bin\Debug\BG Project 2.exe
+c:\users\george\documents\visual studio 2015\Projects\BG Project 2\BG Project 2\bin\Debug\BG Project 2.pdb
+c:\users\george\documents\visual studio 2015\Projects\BG Project 2\BG Project 2\obj\Debug\BG Project 2.csprojResolveAssemblyReference.cache
+c:\users\george\documents\visual studio 2015\Projects\BG Project 2\BG Project 2\obj\Debug\BG Project 2.exe
+c:\users\george\documents\visual studio 2015\Projects\BG Project 2\BG Project 2\obj\Debug\BG Project 2.pdb
